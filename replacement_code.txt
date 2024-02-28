@@ -1,0 +1,4 @@
+# <Company_name>, <Job_title> and <Recruiter_name> fields automatically asked by the code. These three replacement codes can be used in template docx.
+#You can add more code without starting with #. Type your replacement code line by line to below .
+#<your_replacement_code>:
+<Additional_field>
